@@ -1,0 +1,6 @@
+{
+    "tslint.autoFixOnSave": true,
+    "tslint.jsEnable": true,
+    "tslint.alwaysShowStatus": true,
+    "tslint.alwaysShowRuleFailuresAsWarnings": true
+}
