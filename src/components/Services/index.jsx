@@ -27,7 +27,7 @@ export default function Services() {
           <ServicesIcon src={Icon2} />
           <ServiceH2>Virtual offices</ServiceH2>
           <ServicesP>
-            You can access our platform onlineanywhere in the wolrd.
+            You can access our platform online anywhere in the world.
           </ServicesP>
         </ServiceCard>
         <ServiceCard>

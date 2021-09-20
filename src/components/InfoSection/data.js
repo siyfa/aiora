@@ -40,7 +40,7 @@ export const homeObjThree = {
   lightText: false,
   lightTextDesc: false,
   topLine: "Join our Team",
-  headline: "Creting an account is extremely easy",
+  headline: "Creating an account is extremely easy",
   description:
     "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
   bottomLabel: "Start Now",

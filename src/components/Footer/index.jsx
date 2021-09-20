@@ -67,10 +67,10 @@ export default function Footer() {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/" onClick={toggleHome}>
-              sifa
+              aiora
             </SocialLogo>
             <WebsiteRights>
-              sifa © {new Date().getFullYear()} All right reserved.
+              aiora © {new Date().getFullYear()} All right reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="/" target="_blank" aria-label="Facebook">

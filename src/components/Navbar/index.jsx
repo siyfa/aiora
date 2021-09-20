@@ -38,7 +38,7 @@ function Navbar({ toggle }) {
       <IconContext.Provider value={{ color: "#fff" }}>
         <Nav scrollNav={scrollNav} onClick={toggleHome}>
           <NavbarContainer>
-            <NavLogo to="/">sifa</NavLogo>
+            <NavLogo to="/">aiora</NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />
             </MobileIcon>
