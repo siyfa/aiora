@@ -16,7 +16,7 @@ export default function Signin() {
     <>
       <Container>
         <FormWrap>
-          <Icon to="/">sifa</Icon>
+          <Icon to="/">aoira</Icon>
           <FormContent>
             <Form action="#">
               <FormH1>Sign in to your account </FormH1>
